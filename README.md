@@ -6,6 +6,8 @@ AdvTG is an adversarial traffic generation framework designed to deceive deep le
 It leverages large language models (LLMs) and reinforcement learning (RL) to generate adversarial traffic while ensuring semantic coherence and protocol compliance.  
 This repository provides the code for the AdvTG framework.
 
+![Overview](./Pictures/overview.png)
+
 The AdvTG framework consists of three main stages:
 
 ## Detection Model Training
